@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+    font-size: 85px;
+}
+
+.image {
+    position: relative;
+    display: inline-block;
+}
+
+.image img {
+    width: 200%;
+    height: 200%;
+}
+
+.text {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: green;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.Buy {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+    width: 70%;
+    height: 80px;
+}
+
+button:hover {
+    background-color: gray;
+}
+
+.scroll {
+    color: black;
+    font-size: 80px;
+}
+
+.text2 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: orange;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.text3 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.text4 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rebeccapurple;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.text5 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: yellowgreen;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.text6 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: yellow;
+    font-size: 70px;
+    font-weight: bold;
+}
